@@ -1,7 +1,10 @@
 {
   "name": "testing-hig",
   "version": "0.1.0",
-  "private": true,
+  "author": {
+    "name": "Maria Castro",
+    "email": "mariacastro87@gmail.com"
+  },
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
